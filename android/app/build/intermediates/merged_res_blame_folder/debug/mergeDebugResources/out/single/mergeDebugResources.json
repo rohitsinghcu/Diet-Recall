@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\drawable_screen.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\drawable\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ROHIT\\.gradle\\daemon\\8.8\\com.dietrecall.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.dietrecall.app-debug-33:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.dietrecall.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
